@@ -803,7 +803,7 @@ img {
   height: 44px;
 }
 
-.join-svg.dark {
+.join-svg .dark {
   background: rgba(255, 255, 255, 0.1);
 }
 
@@ -954,10 +954,6 @@ img {
   line-height: 1.142;
   color: #FFFFFF;
   margin-bottom: 20px;
-  /* position: absolute;
-width: 219px;
-left: 815px;
-top: 2751px; */
 }
 
 .email-footer {
